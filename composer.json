@@ -11,9 +11,9 @@
     "AFL-3.0"
   ],
   "repositories": [
-        {
+       {
             "type": "vcs",
-            "url": "https://github.com/i6media/sales-sequence"
+            "url": "https://github.com/i6media/boolfly-base"
         }
     ],
   "autoload": {
